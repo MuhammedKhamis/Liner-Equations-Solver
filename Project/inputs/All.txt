@@ -1,0 +1,16 @@
+3
+x1+x2+x3 = 3 
+x1+2*x2+x3 = 4 
+x1+2*x2+3*x3 = 4 
+initial
+1 2 1
+iterations
+10
+tolerance
+0.0005
+initial
+1 2 1
+tolerance
+0.00004  
+iterations
+20
